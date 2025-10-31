@@ -51,7 +51,7 @@ flowchart LR
 
 - Click `Pull Requests` option in your forked repository (which is the third option at the top of this page after the options `Code` and `Issues`).
 - Click the green New Pull Request button. This will prep the new pull request for you by auto-filling the base repository: base with 'EddieGitHubCommunity: main' AND auto-filling your head repository: compare with your repository: main
-- Click on your head repository's `compare` dropdown, and switch branches from your 'main' branch to `<new branch name>`.
+- Click on your head repository's `compare` drop down, and switch branches from your 'main' branch to `<new branch name>`.
 - Finally, click the green `Create Pull Request` button. Great job! You did it!
 
 You can ask questions by raising an [issue](https://github.com/EddieHubCommunity/open-source-practice/issues/new).
@@ -1005,6 +1005,8 @@ A GitHub conflict is when people make changes to the same area or line in a file
   - [Dušan Tanasić](https://github.com/Duk4)
   - [Dywa VaraPrasad](https://github.com/dywa-varaprasad)
   - [Dário Prazeres](https://github.com/DarioPrazeres)
+  - [duvvuvenkataramana](https://github.com/duvvuvenkataramana)
+
 
 | [`Back To Top`](#contents) |
 
